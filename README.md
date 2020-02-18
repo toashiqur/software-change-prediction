@@ -22,6 +22,4 @@ Technology Used:
 * Naive Bayes
 * Jupyter Notebook
 
-The report is available for download from [Software Change Prediction][report-link]
-
-[report-link]:https://www.dropbox.com/s/974m1ebxqz3qg46/file_change_prediction.pdf?dl=0
+The report is available for download from [Software Change Prediction](https://github.com/toashiqur/software-change-prediction/blob/master/assets/docs/file_change_prediction.pdf)
