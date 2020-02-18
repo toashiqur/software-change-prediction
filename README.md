@@ -24,4 +24,4 @@ Technology Used:
 
 The report is available for download from [Software Change Prediction][report-link].
 
-[report-link]:{{site.baseurl}}/assets/docs/file_change_prediction.pdf)
+[report-link]:{site.baseurl}/assets/docs/file_change_prediction.pdf)
