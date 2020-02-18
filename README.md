@@ -23,6 +23,5 @@ Technology Used:
 * Jupyter Notebook
 
 The report is available for download from [Software Change Prediction][report-link]
-<script src="https://gist.github.com/toashiqur/e5aee01a310e037eb620baaeecd988b5.js"></script>
 
-[report-link]:https://gist.github.com/toashiqur/e5aee01a310e037eb620baaeecd988b5.js
+[report-link]:https://www.dropbox.com/s/974m1ebxqz3qg46/file_change_prediction.pdf?dl=0
